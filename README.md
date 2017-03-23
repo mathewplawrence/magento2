@@ -1,1 +1,1 @@
-# magento2
+# Magento 2 experiments and tutorials
